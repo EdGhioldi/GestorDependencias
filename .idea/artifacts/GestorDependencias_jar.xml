@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GestorDependencias:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GestorDependencias_jar</output-path>
+    <root id="archive" name="GestorDependencias.jar">
+      <element id="module-output" name="GestorDependencias" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.26/lombok-1.18.26.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
